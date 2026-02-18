@@ -21,7 +21,7 @@ Publisher: mikestead
 6. Path IntelliSense
 Publisher: Christian Kohler
 
-7.Node.js
+7. Node.js
 
 ## Steps
 
