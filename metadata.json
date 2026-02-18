@@ -1,0 +1,5 @@
+{
+  "name": "B Braun Attendance Tracker",
+  "description": "An AI-powered attendance monitoring system for B Braun, allowing for PDF report analysis, cross-examination of employee absences (AL, EL, MC, ABS, HP), and predictive analytics.",
+  "requestFramePermissions": []
+}
