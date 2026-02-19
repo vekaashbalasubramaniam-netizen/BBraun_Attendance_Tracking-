@@ -24,7 +24,7 @@ Publisher: Christian Kohler
 7. Node.js
 Version: v24.13.1
 
-8.Python
+8. Python
 version : 3.14.3
 
 ## Steps
